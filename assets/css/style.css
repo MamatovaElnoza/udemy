@@ -206,3 +206,17 @@ a {
 .radius {
     border-radius: 50%;
 }
+
+#trends {
+    width: 100%;
+    height: 550px;
+}
+
+.report {
+    width: 24%;
+    padding-top: 8rem;
+}
+
+.trend {
+    width: 75%;
+}
