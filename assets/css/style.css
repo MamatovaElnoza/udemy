@@ -138,3 +138,35 @@ a {
     float: right !important;
     width: 50% !important;
 }
+
+#growth {
+    width: 100%;
+    height: 1000px;
+}
+
+.plan {
+    display: flex;
+}
+
+.third {
+    width: 33%;
+    height: 600px;
+    border: 1px solid #d1d7dc;
+    border-top: 8px solid #5022c3;
+    border-radius: 7px;
+    margin: 0.5rem;
+}
+
+.first {
+    border-top: 8px solid #a435f0;
+}
+
+.plan-info {
+    padding: 1rem;
+    background-color: #f7f9fa;
+}
+
+.small {
+    font-size: 12px !important;
+    color: #3e4143;
+}
