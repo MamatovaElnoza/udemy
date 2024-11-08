@@ -161,12 +161,20 @@ a {
     border-top: 8px solid #a435f0;
 }
 
-.plan-info {
+.padding {
     padding: 1rem;
+}
+
+.plan-info {
     background-color: #f7f9fa;
 }
 
 .small {
     font-size: 12px !important;
     color: #3e4143;
+}
+
+.fa-circle-check {
+    color: #19a38c;
+    font-size: 0.8rem;
 }
